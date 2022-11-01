@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    background-color: aquamarine;
+}
+
+.magnet {
+    transition: all 0.2s;
+}
